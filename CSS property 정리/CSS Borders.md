@@ -209,8 +209,7 @@ CSS `border` 속성을 통해 **element border의 스타일, 너비, 색깔 등�
 - 만약 `border-style` 속성값으로 하나가 아닌 2~4개의 값이 왔을 때
 	- 2개: top & bottom / right & left 적용
 	- 3개 : top / right & left / bottom 적용
-	- 4개 : top / right / bottom / left   
-
+	- 4개 : top / right / bottom / left
 		> 순서에 !유의!합시다.
 
 - 예시
