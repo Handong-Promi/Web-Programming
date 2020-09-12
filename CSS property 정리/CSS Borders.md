@@ -210,6 +210,7 @@ CSS `border` 속성을 통해 **element border의 스타일, 너비, 색깔 등�
 	- 2개: top & bottom / right & left 적용
 	- 3개 : top / right & left / bottom 적용
 	- 4개 : top / right / bottom / left
+	
 	> 순서에 !유의!합시다.
 
 - 예시
