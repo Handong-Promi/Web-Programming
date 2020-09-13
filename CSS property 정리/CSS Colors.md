@@ -10,6 +10,12 @@ Colors
 
 <!-- /code_chunk_output -->
 
+---
+
+> 시작 전, 이 문서는 w3schools의 [HTML Block & Inline Elements](https://www.w3schools.com/html/html_blocks.asp)을 참고하였음을 밝힙니다.
+
+---
+
 ## Background Colors   
 - `background-color:색깔`
 	- HTML element의 배경색을 설정할 수 있다.   

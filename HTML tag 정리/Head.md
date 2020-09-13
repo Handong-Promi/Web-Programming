@@ -1,5 +1,11 @@
-head tag and his children.
+Head
 ==========================
+
+---
+
+> 시작 전, 이 문서는 w3schools의 [HTML Block & Inline Elements](https://www.w3schools.com/html/html_blocks.asp)을 참고하였음을 밝힙니다.
+
+---
 
 1.	**`<head>`**
 
