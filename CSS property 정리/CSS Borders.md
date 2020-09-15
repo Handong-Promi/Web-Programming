@@ -16,7 +16,7 @@ Borders
 
 ---
 
-> 시작 전, 이 문서는 w3schools의 [HTML Block & Inline Elements](https://www.w3schools.com/html/html_blocks.asp)을 참고하였음을 밝힙니다.
+> 시작 전, 이 문서는 w3schools의 [CSS Borders](https://www.w3schools.com/css/css_border.asp)을 참고하였음을 밝힙니다.
 
 ---
 
